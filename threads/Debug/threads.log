@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\source\repos\threads\threads\source.cpp(43): warning C4018: <: несоответствие типов со знаком и без знака
+  threads.vcxproj -> C:\Users\User\source\repos\threads\Debug\threads.exe
